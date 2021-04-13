@@ -1,5 +1,5 @@
-###### Factorial
-# Podemos definir el factorial de un número entero positivo n, expresado n!, como el producto de todos los números enteros positivos menores o iguales que n. la definiccion fue sacada de [Wikipedia](https://es.wikipedia.org/wiki/Factorial#:~:text=7%20Enlaces%20externos-,Definici%C3%B3n%20por%20producto%20e%20inducci%C3%B3n,menores%20o%20iguales%20que%20n.)
+# Factorial
+Podemos definir el factorial de un número entero positivo n, expresado n!, como el producto de todos los números enteros positivos menores o iguales que n. la definiccion fue sacada de [Wikipedia](https://es.wikipedia.org/wiki/Factorial#:~:text=7%20Enlaces%20externos-,Definici%C3%B3n%20por%20producto%20e%20inducci%C3%B3n,menores%20o%20iguales%20que%20n.)
 ## @MigueMat4 ¿qué piensa de esta definición?
 
 #### Programa de un factorial 
